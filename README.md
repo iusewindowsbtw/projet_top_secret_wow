@@ -7,4 +7,5 @@
 
 Path : vite/react/tailwindcss dev:
 - https://flexboxfroggy.com/#fr
-- https://howhttps.works/ 
+- https://howhttps.works/
+- https://www.javascripttutorial.net/javascript-fetch-api/
